@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026042617504429P589</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260426175044BDMZVL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Concreción curricular de la SdA Cuida tu alimentación</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777218629601</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mofy32xh-rrnud00jz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la situación de aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofy32xh-rrnud00jz</odePageId>
+      <odeBlockId>20260426152222AHXSZL</odeBlockId>
+      <blockName>&amp;nbsp;Cuida tu alimentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofy32xh-rrnud00jz</odePageId>
+          <odeBlockId>20260426152222AHXSZL</odeBlockId>
+          <odeIdeviceId>202604251857550153VK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Con esta situación de aprendizaje se pretende adquirir conocimientos y habilidades para mejorar los hábitos de alimentación saludable en los pacientes/usuarios.</p>
+<p><strong>Curso:</strong> 1º TCAE. en el <strong>Centro:</strong>&nbsp; IES VALLE DE TURÓN</p>
+<p><strong>Módulo:</strong> Técnicas Básicas de Enfermería</p>
+<p>Relación interdisciplinar entre módulos:&nbsp;</p>
+<ul>
+<li style="text-align: left;">Promoción de la salud y apoyo psicológico al paciente.</li>
+<li style="text-align: left;">Formación en centro de trabajo</li>
+</ul>
+<p><br><strong>Agrupamientos</strong> siguiendo el criterio DUA serán heterogéneos, flexibles y alguna tarea agrupamiento individual.</p>
+<p><strong>Organización espacial:</strong> las actividades se realizarán en el aula de referencia, en el aula de informática (aula Itales) y en el taller de cocina.</p>
+<p><strong>Temporalización</strong>: se realizarán 6 sesiones entre el 5 y el 8 de mayo de 2026.</p>
+<p><strong>Descripción de la actividad:&nbsp;</strong></p>
+<p>Trabajas como TCAE en una clínica especializada en Obesidad y se decide realizar junto al equipo multidisciplinar una actividad para potenciar la alimentación y hábitos saludables en los pacientes. Para ello tienes que diseñar unos talleres cortos de educación nutricional para los pacientes y sus familiares.</p>
+<p><strong>Proceso y tareas:&nbsp;</strong></p>
+<p>1. &nbsp; &nbsp; &nbsp;Búsqueda de información sobre alimentación saludable y equilibrada a partir de fuentes científicas fiables.</p>
+<p>2. &nbsp; &nbsp; &nbsp;Diagnóstico rápido de necesidades: realizar una encuesta al paciente para conocer sus hábitos de alimentación con role play paciente-TCAE.</p>
+<p>3. &nbsp; &nbsp; &nbsp;Elaboración de material didáctico: diseñar una infografía con un elemento interactivo donde se resume la información buscada de alimentación saludable.</p>
+<p>4. &nbsp; &nbsp; &nbsp;Simulación de sesión educativa con los pacientes: grabar un podcast o vídeo con role play entrevista paciente-TCAE acerca de la mejora de sus hábitos saludables y preparar un taller de cocina de snacks saludables y lectura de etiquetas nutricionales con cálculo de energía y nutrientes por ración.</p>
+<p><strong>&nbsp;Recursos:</strong></p>
+<p>1. &nbsp; &nbsp; &nbsp;Fuentes web de Alimentación saludable:</p>
+<p>Fundación Dieta Mediterránea:</p>
+<p><a href="https://dietamediterranea.com/nutricion-saludable-ejercicio-fisico/">https://dietamediterranea.com/nutricion-saludable-ejercicio-fisico/</a></p>
+<p>Academia de Nutrición y Dietética:</p>
+<p><a href="https://www.academianutricionydietetica.org/dietas/menu-semanal-dieta-mediterranea/">https://www.academianutricionydietetica.org/dietas/menu-semanal-dieta-mediterranea/</a></p>
+<p>Plato saludable:</p>
+<p><a href="https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/translations/spanish/">https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/translations/spanish/</a></p>
+<p><a href="https://www.academianutricionydietetica.org/dietas/adelgazar-metodo-plato/">https://www.academianutricionydietetica.org/dietas/adelgazar-metodo-plato/</a></p>
+<p>2. &nbsp; &nbsp; &nbsp;Para la encuesta: formulario Google Forms</p>
+<p>3. &nbsp; &nbsp; &nbsp;Infografía: Canva o Genially</p>
+<p>4. &nbsp; &nbsp; &nbsp;Sesión educativa con los pacientes:</p>
+<p>. Grabar un podcast o vídeo simulando paciente y TCAE. (CapCut o similares)</p>
+<p>. Taller de cocina del centro:&nbsp;</p>
+<p>Alimentos, material y equipos de la cocina</p>
+<p>Etiquetas nutricionales de alimentos , calculadora.</p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604251857550153VK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con esta situación de aprendizaje se pretende adquirir conocimientos y habilidades para mejorar los hábitos de alimentación saludable en los pacientes/usuarios.</p>\n<p><strong>Curso:</strong> 1º TCAE. en el <strong>Centro:</strong>  IES VALLE DE TURÓN</p>\n<p><strong>Módulo:</strong> Técnicas Básicas de Enfermería</p>\n<p>Relación interdisciplinar entre módulos: </p>\n<ul>\n<li style=\"text-align: left;\">Promoción de la salud y apoyo psicológico al paciente.</li>\n<li style=\"text-align: left;\">Formación en centro de trabajo</li>\n</ul>\n<p><br /><strong>Agrupamientos</strong> siguiendo el criterio DUA serán heterogéneos, flexibles y alguna tarea agrupamiento individual.</p>\n<p><strong>Organización espacial:</strong> las actividades se realizarán en el aula de referencia, en el aula de informática (aula Itales) y en el taller de cocina.</p>\n<p><strong>Temporalización</strong>: se realizarán 6 sesiones entre el 5 y el 8 de mayo de 2026.</p>\n<p><strong>Descripción de la actividad: </strong></p>\n<p>Trabajas como TCAE en una clínica especializada en Obesidad y se decide realizar junto al equipo multidisciplinar una actividad para potenciar la alimentación y hábitos saludables en los pacientes. Para ello tienes que diseñar unos talleres cortos de educación nutricional para los pacientes y sus familiares.</p>\n<p><strong>Proceso y tareas: </strong></p>\n<p>1.      Búsqueda de información sobre alimentación saludable y equilibrada a partir de fuentes científicas fiables.</p>\n<p>2.      Diagnóstico rápido de necesidades: realizar una encuesta al paciente para conocer sus hábitos de alimentación con role play paciente-TCAE.</p>\n<p>3.      Elaboración de material didáctico: diseñar una infografía con un elemento interactivo donde se resume la información buscada de alimentación saludable.</p>\n<p>4.      Simulación de sesión educativa con los pacientes: grabar un podcast o vídeo con role play entrevista paciente-TCAE acerca de la mejora de sus hábitos saludables y preparar un taller de cocina de snacks saludables y lectura de etiquetas nutricionales con cálculo de energía y nutrientes por ración.</p>\n<p><strong> Recursos:</strong></p>\n<p>1.      Fuentes web de Alimentación saludable:</p>\n<p>Fundación Dieta Mediterránea:</p>\n<p><a href=\"https://dietamediterranea.com/nutricion-saludable-ejercicio-fisico/\">https://dietamediterranea.com/nutricion-saludable-ejercicio-fisico/</a></p>\n<p>Academia de Nutrición y Dietética:</p>\n<p><a href=\"https://www.academianutricionydietetica.org/dietas/menu-semanal-dieta-mediterranea/\">https://www.academianutricionydietetica.org/dietas/menu-semanal-dieta-mediterranea/</a></p>\n<p>Plato saludable:</p>\n<p><a href=\"https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/translations/spanish/\">https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/translations/spanish/</a></p>\n<p><a href=\"https://www.academianutricionydietetica.org/dietas/adelgazar-metodo-plato/\">https://www.academianutricionydietetica.org/dietas/adelgazar-metodo-plato/</a></p>\n<p>2.      Para la encuesta: formulario Google Forms</p>\n<p>3.      Infografía: Canva o Genially</p>\n<p>4.      Sesión educativa con los pacientes:</p>\n<p>. Grabar un podcast o vídeo simulando paciente y TCAE. (CapCut o similares)</p>\n<p>. Taller de cocina del centro: </p>\n<p>Alimentos, material y equipos de la cocina</p>\n<p>Etiquetas nutricionales de alimentos , calculadora.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofy32y1-qhh3afd11</odePageId>
+  <odeParentPageId>page-mofy32xh-rrnud00jz</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofy32y1-qhh3afd11</odePageId>
+      <odeBlockId>20260426152222BMRDFY</odeBlockId>
+      <blockName>Intención educativa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofy32y1-qhh3afd11</odePageId>
+          <odeBlockId>20260426152222BMRDFY</odeBlockId>
+          <odeIdeviceId>20260425194634464ONV</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Justificación de su desarrollo:</strong></p>
+<p>La obesidad es una condición multifactorial que requiere del abordaje integral de diversos profesionales. La educación nutricional se hace necesaria tanto a pacientes como a familiares para adoptar hábitos de alimentación y de vida saludables y&nbsp; sostenibles, reduciendo así los riesgos asociados como son el IMC, la diabetes, la hipertensión o las dislipemias entre otros.</p>
+<p><strong>Impacto esperado:</strong></p>
+<p>Se espera en el alumnado una mejora de sus conocimientos en la materia a desarrollar, con tareas de investigación y manejo de las competencias digitales, así como un impacto emocional al ponerse en el lugar del paciente con el role-playing y mejora en las habilidades sociales (trabajo en equipos).&nbsp;</p>
+<p><strong>Relación de la SdA con los ODS:</strong></p>
+<p><em>ODS 3: Salud y bienestar</em>. Implica asegurar la salud y el bienestar de todas las personas, en cada etapa de la vida. En la actualidad, las enfermedades no transmisibles, como la diabetes mellitus tipo 2 y la hipertensión arterial, son la principal causa de muerte prematura en el mundo. La obesidad, el sobrepeso y la malnutrición están entre las causas identificadas. Sin embargo, podemos adoptar estilos de vida más saludables a cualquier edad, como llevar una alimentación rica en hortalizas, verduras, frutas y proteínas vegetales, y realizar ejercicio con frecuencia</p>
+<p><em>ODS 4: Educación de calidad.</em> Hay una fuerte relación entre la educación y los alimentos: la mala nutrición afecta al aprendizaje y al rendimiento académico. En algunos países se han puesto en marcha programas para que más niños puedan acceder al sistema educativo, proporcionando comidas gratis en las escuelas. Además es importante&nbsp; trabajar en los centros&nbsp; cómo adoptar dietas saludables y sostenibles, y enseñar a las personas a realizar menús saludables y equilibrados.</p>
+<p><strong>Retos del siglo XXI:</strong></p>
+<p><em>ODS 1: Fin de la pobreza.</em> El coste de las importaciones de alimentos es cada vez más elevado, en especial para los países pobres, que se enfrentan al desafío de cubrir sus necesidades básicas. Combatir la pobreza en el mundo implica, entre otras cuestiones, garantizar que todas las personas tengan un acceso equitativo a los servicios básicos, a las tierras, a los recursos naturales y a las tecnologías. Es también una prioridad incrementar el acceso de la población al consumo de fruta y hortalizas, mejorando su estado nutricional.</p>
+<p><em>ODS 2: Hambre cero</em>. El número de personas afectadas por el hambre y la desnutrición superará los 840 millones de personas para 2030. El aumento de la productividad agrícola y la producción alimentaria sostenible son cruciales para ayudar a aliviar los riesgos del hambre. Así mismo, revisar y actualizar las guías alimentarias de todos los países y promover alimentos nutricionalmente densos pero de bajo coste como so las legumbres y los cereales integrales.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260425194634464ONV","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación de su desarrollo:</strong></p>\n<p>La obesidad es una condición multifactorial que requiere del abordaje integral de diversos profesionales. La educación nutricional se hace necesaria tanto a pacientes como a familiares para adoptar hábitos de alimentación y de vida saludables y  sostenibles, reduciendo así los riesgos asociados como son el IMC, la diabetes, la hipertensión o las dislipemias entre otros.</p>\n<p><strong>Impacto esperado:</strong></p>\n<p>Se espera en el alumnado una mejora de sus conocimientos en la materia a desarrollar, con tareas de investigación y manejo de las competencias digitales, así como un impacto emocional al ponerse en el lugar del paciente con el role-playing y mejora en las habilidades sociales (trabajo en equipos). </p>\n<p><strong>Relación de la SdA con los ODS:</strong></p>\n<p><em>ODS 3: Salud y bienestar</em>. Implica asegurar la salud y el bienestar de todas las personas, en cada etapa de la vida. En la actualidad, las enfermedades no transmisibles, como la diabetes mellitus tipo 2 y la hipertensión arterial, son la principal causa de muerte prematura en el mundo. La obesidad, el sobrepeso y la malnutrición están entre las causas identificadas. Sin embargo, podemos adoptar estilos de vida más saludables a cualquier edad, como llevar una alimentación rica en hortalizas, verduras, frutas y proteínas vegetales, y realizar ejercicio con frecuencia</p>\n<p><em>ODS 4: Educación de calidad.</em> Hay una fuerte relación entre la educación y los alimentos: la mala nutrición afecta al aprendizaje y al rendimiento académico. En algunos países se han puesto en marcha programas para que más niños puedan acceder al sistema educativo, proporcionando comidas gratis en las escuelas. Además es importante  trabajar en los centros  cómo adoptar dietas saludables y sostenibles, y enseñar a las personas a realizar menús saludables y equilibrados.</p>\n<p><strong>Retos del siglo XXI:</strong></p>\n<p><em>ODS 1: Fin de la pobreza.</em> El coste de las importaciones de alimentos es cada vez más elevado, en especial para los países pobres, que se enfrentan al desafío de cubrir sus necesidades básicas. Combatir la pobreza en el mundo implica, entre otras cuestiones, garantizar que todas las personas tengan un acceso equitativo a los servicios básicos, a las tierras, a los recursos naturales y a las tecnologías. Es también una prioridad incrementar el acceso de la población al consumo de fruta y hortalizas, mejorando su estado nutricional.</p>\n<p><em>ODS 2: Hambre cero</em>. El número de personas afectadas por el hambre y la desnutrición superará los 840 millones de personas para 2030. El aumento de la productividad agrícola y la producción alimentaria sostenible son cruciales para ayudar a aliviar los riesgos del hambre. Así mismo, revisar y actualizar las guías alimentarias de todos los países y promover alimentos nutricionalmente densos pero de bajo coste como so las legumbres y los cereales integrales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofy32y3-spmepabg7</odePageId>
+  <odeParentPageId>page-mofy32xh-rrnud00jz</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofy32y3-spmepabg7</odePageId>
+      <odeBlockId>20260426152222XVBLUC</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofy32y3-spmepabg7</odePageId>
+          <odeBlockId>20260426152222XVBLUC</odeBlockId>
+          <odeIdeviceId>20260425201936824ALJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Capacidades profesionales (LOGSE):</strong></p>
+<p>Potenciar el conocimiento, actitudes y hábitos preventivos e higiénico-sanitarios en la población.</p>
+<p><strong>Unidad de competencia 2</strong>:</p>
+<p>Aplicar cuidados auxiliares de enfermería al paciente/cliente.</p>
+<p><strong>Capacidades terminales:</strong></p>
+<p>2.5. Analizar las indicaciones en cuanto a la administración de dietas, proponiendo y aplicando, en su caso, la técnica de apoyo a la ingesta más adecuada en función del grado de dependencia.</p>
+<p><strong>Criterios de evaluación:</strong></p>
+<ul>
+<li>Describir las características nutritivas de los distintos tipos de dietas.</li>
+<li>Clasificar los tipos de alimentos por las características básicas de sus nutrientes, explicando sus principios inmediatos constitutivos.</li>
+</ul>
+<p><strong>Instrumentos de evaluación:</strong></p>
+<p>Rúbricas, cuestionario, lista de cotejo, escalas de valoración</p>
+<p><strong>Saberes Básicos</strong>:</p>
+<p>Alimentación y nutrición. Alimentación equilibrada. Nutrientes. Dietoterapia.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260425201936824ALJ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Capacidades profesionales (LOGSE):</strong></p>\n<p>Potenciar el conocimiento, actitudes y hábitos preventivos e higiénico-sanitarios en la población.</p>\n<p><strong>Unidad de competencia 2</strong>:</p>\n<p>Aplicar cuidados auxiliares de enfermería al paciente/cliente.</p>\n<p><strong>Capacidades terminales:</strong></p>\n<p>2.5. Analizar las indicaciones en cuanto a la administración de dietas, proponiendo y aplicando, en su caso, la técnica de apoyo a la ingesta más adecuada en función del grado de dependencia.</p>\n<p><strong>Criterios de evaluación:</strong></p>\n<ul>\n<li>Describir las características nutritivas de los distintos tipos de dietas.</li>\n<li>Clasificar los tipos de alimentos por las características básicas de sus nutrientes, explicando sus principios inmediatos constitutivos.</li>\n</ul>\n<p><strong>Instrumentos de evaluación:</strong></p>\n<p>Rúbricas, cuestionario, lista de cotejo, escalas de valoración</p>\n<p><strong>Saberes Básicos</strong>:</p>\n<p>Alimentación y nutrición. Alimentación equilibrada. Nutrientes. Dietoterapia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofy32y4-6vvv7puay</odePageId>
+  <odeParentPageId>page-mofy32xh-rrnud00jz</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofy32y4-6vvv7puay</odePageId>
+      <odeBlockId>20260426152222SXAXIY</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofy32y4-6vvv7puay</odePageId>
+          <odeBlockId>20260426152222SXAXIY</odeBlockId>
+          <odeIdeviceId>202604252030285294JM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Para el desarrollo de las actividades se emplearán las siguientes metodologías activas:</p>
+<p><strong>Aprendizaje-servicio:&nbsp;</strong>diseño de talleres cortos de educación nutricional para pacientes.</p>
+<p><strong>Técnicas y dinámica de grupos el Role-playing: </strong>simulación clínica<strong> </strong>donde un/a alumno/a será el paciente y otro/a el TCAE para valorar la comunicación y la escucha activa.</p>
+<p><strong>Visual Thinking:</strong> en la elaboración de una infografía con un elemento interactivo para explicar a los pacientes las bases de una alimentación y hábitos saludables.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604252030285294JM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo de las actividades se emplearán las siguientes metodologías activas:</p>\n<p><strong>Aprendizaje-servicio: </strong>diseño de talleres cortos de educación nutricional para pacientes.</p>\n<p><strong>Técnicas y dinámica de grupos el Role-playing: </strong>simulación clínica<strong> </strong>donde un/a alumno/a será el paciente y otro/a el TCAE para valorar la comunicación y la escucha activa.</p>\n<p><strong>Visual Thinking:</strong> en la elaboración de una infografía con un elemento interactivo para explicar a los pacientes las bases de una alimentación y hábitos saludables.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofy32y6-s85x10i72</odePageId>
+  <odeParentPageId>page-mofy32xh-rrnud00jz</odeParentPageId>
+  <pageName>Vinculación con los programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofy32y6-s85x10i72</odePageId>
+      <odeBlockId>20260426152222XCOSHG</odeBlockId>
+      <blockName>Vinculación con los programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofy32y6-s85x10i72</odePageId>
+          <odeBlockId>20260426152222XCOSHG</odeBlockId>
+          <odeIdeviceId>20260425204139743AF1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>La situación de aprendizaje propuesta está relacionas con los siguientes objetivos específicos del centro en el presente curso 2025-26:</p>
+<ul>
+<li>O4.Adecuar nuestros modelos pedagógicos a la enseñanza y evaluación por competencias de una manera efectiva y real.</li>
+<li>O5.Profundizar en la transversalidad de los conocimientos</li>
+<li>O15.Continuar implementando medidas que contribuyan a una incorporación real de la digitalización en nuestras enseñanzas.</li>
+</ul>
+<p>&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260425204139743AF1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La situación de aprendizaje propuesta está relacionas con los siguientes objetivos específicos del centro en el presente curso 2025-26:</p>\n<ul>\n<li>O4.Adecuar nuestros modelos pedagógicos a la enseñanza y evaluación por competencias de una manera efectiva y real.</li>\n<li>O5.Profundizar en la transversalidad de los conocimientos</li>\n<li>O15.Continuar implementando medidas que contribuyan a una incorporación real de la digitalización en nuestras enseñanzas.</li>\n</ul>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofy32y7-eegi6ouck</odePageId>
+  <odeParentPageId>page-mofy32xh-rrnud00jz</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofy32y7-eegi6ouck</odePageId>
+      <odeBlockId>20260426152222LVLATL</odeBlockId>
+      <blockName>Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofy32y7-eegi6ouck</odePageId>
+          <odeBlockId>20260426152222LVLATL</odeBlockId>
+          <odeIdeviceId>20260425204447909IIA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>La actividad extraescolar propuesta es la visita a una residencia- centro de día en Turón para visualizar las comidas que realizan los usuarios.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260425204447909IIA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La actividad extraescolar propuesta es la visita a una residencia- centro de día en Turón para visualizar las comidas que realizan los usuarios.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofy32y9-50nx6idlr</odePageId>
+  <odeParentPageId>page-mofy32xh-rrnud00jz</odeParentPageId>
+  <pageName>Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofy32y9-50nx6idlr</odePageId>
+      <odeBlockId>20260426152222TYISPF</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofy32y9-50nx6idlr</odePageId>
+          <odeBlockId>20260426152222TYISPF</odeBlockId>
+          <odeIdeviceId>20260426113835665SCM</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Concreción curricular de la SdA Cuida tu alimentación</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Situación de aprendizaje dirigida al alumnado de 1º del Ciclo Formativo de Grado Medio de Técnico en Cuidados Auxiliares de Enfermería, centrada en en la mejora y adquisición de una alimentación saludable y equilibrada.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Carina Jiménez Flores</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
